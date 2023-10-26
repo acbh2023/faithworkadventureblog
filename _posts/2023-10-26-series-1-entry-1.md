@@ -19,7 +19,7 @@ I am a follower of Jesus, and that is central to my life. I am also a father of 
 
 I want to be clear, this is not for an exclusively Christian audience. That said, I will not hide the fact that I lead a Jesus-centric life, nor will I hide the fact that I hope to influence the reader to believe in Jesus and understand His love for you. I am here to nourish Christians and invite non-Christians to join us.
 
-I also want non-Christians to be able to read the perspective of a Christian that is not just a nominal Christian but truly strives to follow Christ. There are too many fear-mongering, anti-biblical content creators masquerading as Christians on the internet today and it is frustrating to see.
+I also want non-Christians to be able to read the perspective of a Christian that is not just a nominal Christian but truly strives to follow Christ. There are too many fear-mongering, anti-biblical, or content creators on the internet today that are either Masquerading as Christians or are confused Christians and it is frustrating to see.
 
 `Vision and Purpose`
 
