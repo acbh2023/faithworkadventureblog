@@ -74,7 +74,7 @@ steadfast love, and relenting from disaster."
 
 Jonah knew God wanted to forgive the evil Ninevites, and Jonah hated the Nineveites and the evil things they had done to Israel and other nations. He wanted them to pay. God wanted to forgive them.
 
-While we certainly should be excitedly anticipating Christ's coming as followers of Him, simultaneously let us put our noses to the grindstone and do the work of spreading the gospel, which is not just a message but a person, the God-man Jesus Christ. The end is always near, it has been near ever since Jesus' ascension after His resurrection; there is much work to do and so it is not the time to hunker down in our bunkers. *I believe these two verses support that sentiment:*
+While we certainly should be excitedly anticipating Christ's coming as followers of Him, simultaneously let us put our noses to the grindstone and do the work of spreading the gospel, which is not just a message but a person, the God-man Jesus Christ. The end is always near, it has been near ever since Jesus' ascension after His resurrection; there is much work to do and so it is not the time to hunker down in our bunkers. *I believe these two verses support this sentiment:*
 
 {% highlight text %}
 - "The harvest is plentiful, but the laborers are few" (Matthew 9:37 ESV)
