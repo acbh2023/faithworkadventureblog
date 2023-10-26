@@ -4,6 +4,7 @@
 
 layout: home
 ---
+<meta name="follow.it-verification-code" content="SguyFf1Cadh0Gx62nELX"/>
 
 <style>
 .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview {
