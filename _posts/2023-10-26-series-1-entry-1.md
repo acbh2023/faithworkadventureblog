@@ -25,7 +25,7 @@ I also want non-Christians to be able to read the perspective of a Christian tha
 
 This weekly, blog-style publication will be released every __Thursday__, and will include a variety of series on faith, my passions/work, and adventurous short stories. The series will all flow from my love for Christ, my love for my family, my love for strangers, and my passions, and my passion for adventure.
 
-This __first series__, a 5-part series, will be focused on topics of __faith and/or work__, but will not necessarily always touch on both.
+This __first series__, a 5-part series, will be focused on topics of __faith and/or work__, but will not necessarily always touch on both. The focus will be to help you decide if you really want to listen to me or not based on my attempt to convey my perspective to you.
 
 The __second series__, which will have its first publication released on November 30th, 2023, will be an __adventure series__ about an adventurer named _Newt_ and his trusty steed _Shorty_. Leaving their hometown, they will run into trials, friends and foes as they make their journey through a wild, untamed land on their way to the coastline to board the Santa Vida. It will be like Pilgrim's Progress with a Western twist.
 
