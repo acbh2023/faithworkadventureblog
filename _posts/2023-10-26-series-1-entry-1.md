@@ -83,7 +83,7 @@ While we certainly should be excitedly anticipating Christ's coming as followers
 
 While I would love to be in heaven, there is one thing I cannot do in heaven: *share the gospel of Jesus Christ with non-believers*. I pray for God to give me as much time as possible to reach as many people as possible.
 
-__2. If you are an American and a Christian like myself: As a Christian First and an American Second, we shouldn't be picking sides in this geopolitical conflict.__
+__2. If you are an American and a Christian like myself: As a Christian First and an American Second, it is not most important be picking sides in this geopolitical conflict.__
 
 - We do not have a bone to pick with earthly authorities.
 {% highlight text %}
