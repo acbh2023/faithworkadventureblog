@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Series 1: Faith and Work | Entry #1: Introduction, Audience, Purpose, and FIRST ENTRY"
-date:   2023-10-26 14:11:00 -0211
+date:   2023-10-27 12:15:00 -1215
 ---
 
 __WARNING:__ READING THE ENTRY BELOW MAY CAUSE COGNITIVE DISSONANCE
@@ -22,7 +22,7 @@ I also want non-Christians to be able to read the perspective of a Christian tha
 
 `Vision and Purpose`
 
-This weekly, blog-style publication will be released every __Thursday__, and will include a variety of series on faith, my passions/work, and adventurous short stories. The series will all flow from my love for Christ, my love for my family, my love for strangers, and my passions, and my passion for adventure.
+This weekly, blog-style publication will be released every __Friday__, and will include a variety of series on faith, my passions/work, and adventurous short stories. The series will all flow from my love for Christ, my love for my family, my love for strangers, and my passions, and my passion for adventure.
 
 This __first series__, a 5-part series, will be focused on topics of __faith and/or work__, but will not necessarily always touch on both. The focus will be to help you decide if you really want to listen to me or not based on my attempt to convey my perspective to you.
 
@@ -100,4 +100,4 @@ children of the flesh who are the children of God, but the children of the
 promise are counted as offspring."
 {% endhighlight %}
 
-__TL;DR__ |__I'm starting a new publication:__ *What?* I am starting series-based publication on faith, work, and adventure. *When?* Weekly Publication released on Thursdays *Why?* To encourage, exhort, and admonish *Who?* Christians and non-Christians alike. *Where?* At this website.|__First Entry:__ *What was today's topic?* Israel and the End of the World. *What were the main points?* 1. As a Christian, don't hunker down or panic in response to potentially world-shifting events, use it as a reminder to pick up the plow and invite people to follow Jesus. 2. There is a difference between Geneological Israel and Spiritual Israel (Romans 9:6-8) |
+__TL;DR__ |__I'm starting a new publication:__ *What?* I am starting series-based publication on faith, work, and adventure. *When?* Weekly Publication released on Fridays *Why?* To encourage, exhort, and admonish *Who?* Christians and non-Christians alike. *Where?* At this website.|__First Entry:__ *What was today's topic?* Israel and the End of the World. *What were the main points?* 1. As a Christian, don't hunker down or panic in response to potentially world-shifting events, use it as a reminder to pick up the plow and invite people to follow Jesus. 2. There is a difference between Geneological Israel and Spiritual Israel (Romans 9:6-8) |
