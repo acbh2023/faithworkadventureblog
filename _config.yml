@@ -23,8 +23,8 @@ email: acbh2023@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   Variety of series on faith, work, short stories. All centered around my love
   for Christ, my wife, my passions, and the adventure we are in together.
-baseurl: "/faithworkadventureblog" # the subpath of your site, e.g. /blog
-url: "https://acbh2023.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "faithworkadventureblog" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
 
