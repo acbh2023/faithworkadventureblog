@@ -101,5 +101,3 @@ promise are counted as offspring."
 {% endhighlight %}
 
 __TL;DR__ |__I'm starting a new publication:__ *What?* I am starting series-based publication on faith, work, and adventure. *When?* Weekly Publication released on Thursdays *Why?* To encourage, exhort, and admonish *Who?* Christians and non-Christians alike. *Where?* At this website.|__First Entry:__ *What was today's topic?* Israel and the End of the World. *What were the main points?* 1. As a Christian, don't hunker down or panic in response to potentially world-shifting events, use it as a reminder to pick up the plow and invite people to follow Jesus. 2. There is a difference between Geneological Israel and Spiritual Israel (Romans 9:6-8) |
-
-ps: I am working on getting email subscriptions setup so please hold on tight for that.
