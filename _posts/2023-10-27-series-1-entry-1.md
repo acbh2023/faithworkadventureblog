@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Series 1: Faith and Work | Entry #1: Introduction, Audience, Purpose, and FIRST ENTRY"
-date:   2023-10-27 12:15:00 -1215
+date:   2023-10-27 08:00:00 -0800
 ---
 
 __WARNING:__ READING THE ENTRY BELOW MAY CAUSE COGNITIVE DISSONANCE
