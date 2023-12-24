@@ -1,0 +1,11 @@
+fix blog date name of file and inside the date too -0500 is the timezone
+
+in terminal:
+cd faith_work_write_blog
+jekyll build
+jekyll serve
+git add .
+git commit -m "initial commit"
+git push origin gh-pages -f
+
+-f is force

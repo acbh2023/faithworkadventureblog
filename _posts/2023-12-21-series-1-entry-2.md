@@ -28,25 +28,34 @@ For a little context of this particular John Bunyan's _Pilgrim's Progress_ passa
 
 {% highlight text %}
 
-"One thing I shouldn't forget to mention is how poor
-Christian looked so confused. As I watched him,
-it was like he didn't even know his own voice.
-Just when he came to the mouth of the burning pit,
-one of the wicked ones sneaked up behind him.
-It whispered softly into his ear with many suggestive
-and distressing blasphemies. Christian thought these
-blasphemies has originated from his own mind, and
-it troubled him deeply. As he continued on his journey,
-the thought that he could possibly blaspheme the One
-who loved him so much weighed heavily on him. In fact,
-it tested Christian more than anything he had met with
-before. If he could have helped it, he would not have
-done it, but he didn't have the foresight to either
-stop his ears or understand the real source of the blasphemies."
+"One thing I shouldn't forget to
+mention is how poor Christian looked
+so confused. As I watched him,
+it was like he didn't even know his
+own voice. Just when he came to the
+mouth of the burning pit, one of the
+wicked ones sneaked up behind him.
+It whispered softly into his ear with
+many suggestive and distressing
+blasphemies. Christian thought these
+blasphemies has originated from his
+own mind, and it troubled him deeply.
+As he continued on his journey, the
+thought that he could possibly
+blaspheme the One who loved him so
+much weighed heavily on him. In fact,
+it tested Christian more than anything
+he had met with before. If he could
+have helped it, he would not have
+done it, but he didn't have the
+foresight to either stop his ears or
+understand the real source of the
+blasphemies."
 
 Bunyan, John. "The Pilgrim's Progress."
-Updated Modern English Edition, Aneko Press, 2014.
-Part 1: The Fourth Stage, p. 74.
+Updated Modern English Edition, Aneko
+Press, 2014. Part 1: The Fourth Stage,
+p. 74.
 
 {% endhighlight %}
 
@@ -62,9 +71,12 @@ Reaching one person with the gospel may seem insignificant in a world where dark
 There are many things that often distract me from the simple task of spreading the gospel, but it is also our most important task as Christians (Matthew 28:16-20). I know for me, one of those distractions is thinking I'm unworthy because of my past. I must rebuke those thoughts in Christ because they are not thoughts of a new creation in Christ. Recently, when I have been caught in the trap of drudging up my past in my thoughts, what Paul says in Phillipians 3:13-14 has been helping me. But before you read those verses (below), keep in mind the writer's background. Paul, before he was chosen to be an ambassador of Jesus, was a man responsible for playing a major role in a campaign to eradicate Christians. He was participating in an attempted genocide of Christians. If God used a former genocidaire of His people and turned him into one of His most important tools for His Kingdom, He can use anyone with a dark past and turn them into His vessel.
 
 {% highlight text %}
-Forgetting what is behind and straining toward what is ahead,
-I press on toward the goal to win the prize for which God
-has called me heavenward in Christ Jesus. (ESV)
+Forgetting what is behind and
+straining toward what is ahead,
+I press on toward the goal to
+win the prize for which God
+has called me heavenward in
+Christ Jesus. (ESV)
 {% endhighlight %}
 
 I want you to note something about this verse. Forgetting here is not in the sense of when you forget that you had an appointment. The word forgetting here, in Greek, _epilanthanomenos_, means to neglect. You have to intentionally neglect the temptation to drudge up your past and pity yourself.
@@ -74,8 +86,10 @@ So put on the shoes of the gospel of peace and unhide that light from under that
 And with that, I leave you with the same question I asked you at the beginning:
 
 {% highlight text %}
-If the world ended today, would God tell me,
-"Well done, good and faithful servant"? (Matthew 25:23 ESV)
+If the world ended today,
+would God tell me, "Well done,
+good and faithful servant"?
+(Matthew 25:23 ESV)
 {% endhighlight %}
 
-__TL;DR__ |Leave The Past in The Past. Paul says it this way: "Forgetting what is behind and straining toward what is ahead, I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus."" (Phillipians 3:13-14 ESV)|
+__TL;DR__ |Leave The Past in The Past. Paul says it this way: "Forgetting what is behind and straining toward what is ahead, I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus." (Phillipians 3:13-14 ESV)|
