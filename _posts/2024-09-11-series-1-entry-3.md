@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Israelites Battle Amalek at Rephidim : A Shadow of the Cross in the Old Testament"
+title:  "The Israelites Battle Amalek at Rephidim : A Shadow of the Cross in Exodus"
 date:   2024-09-11 22:47:00 -0500
 ---
 
