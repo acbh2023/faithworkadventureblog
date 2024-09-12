@@ -10,3 +10,5 @@ git commit -m "initial commit"
 git push origin gh-pages -f
 
 -f is force
+
+to send this, copy and paste the preview and test rss campaign thing in mailchimp to an email
