@@ -6,7 +6,7 @@ date:   2024-09-11 22:47:00 -0500
 
 `Introduction`
 
-Luke spends a lot of time in Acts recording the unfolding of the Old Testament to the Jews through Paul, Stephen, James, and others, revealing that the Old Testament was pointing us to God's redemptive plan through Jesus, preparing us for His sacrifice all along (see Acts 7, Acts 13:13-52, Acts 15:14-21, etc). Unfolding the Old Testament is a common practice not just in Acts but much of the New Testament. Augustine says it much better than I do: "The New Testament lies hidden in the Old, and the Old Testament is unveiled in the New."
+Luke spends a lot of time in Acts recording the unfolding of the Old Testament to the Jews through Paul, Stephen, James, and others, revealing that the Old Testament was pointing us to God's redemptive plan through Jesus, preparing us for His sacrifice, all along (see Acts 7, Acts 13:13-52, Acts 15:14-21, etc). Unfolding the Old Testament is a common practice not just in Acts but much of the New Testament. Augustine says it much better than I do: "The New Testament lies hidden in the Old, and the Old Testament is unveiled in the New."
 
 As I spend a lot of time in the Old Testament these days, I see this pattern of the New Testament being hidden in the Old everywhere I look. Jesus has been the plan all along. While you explore the Bible, look for that! It is there, everywhere.
 
