@@ -4,6 +4,7 @@ in terminal:
 cd faith_work_write_blog
 jekyll build
 jekyll serve
+to test it out locally do the aforementioned. To upload it live do what is below
 git add .
 git commit -m "initial commit"
 git push origin gh-pages -f

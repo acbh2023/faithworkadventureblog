@@ -4,13 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am Alex Beaty. I love Jesus most, my wife and son very much, and I strive to put others before myself in all that I do.
+I am a prisoner of Christ. A lamb to be slaughtered. May nothing but Christ and Christ crucified be the song of my life
 
-Thanks for visiting my page.
-
-Here is my LinkedIn and email to reach out to me
-[LinkedIn][li-profile] /
-[email](mailto:acbh2023@proton.me)
-
-
-[li-profile]: https://www.linkedin.com/in/alexbeaty77
+Thanks for visiting my page. Hopefully I have pointed you to Christ's sacrifice during your visit of this blog
