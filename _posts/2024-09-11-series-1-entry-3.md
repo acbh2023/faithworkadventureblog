@@ -40,12 +40,13 @@ With these two verses as primer, read below and picture these two images side by
 
 {% highlight text %}
 Image 1:
-Moses climbed up a hill, raised his
-hands up willingly holding the staff
-of God, the hand of one man holding
-up the staff on one side, the hand
-of another man holding the staff on
-the other side.
+Moses climbed up a hill, raised
+his hands up willingly holding
+the staff of God, the hand of
+one man holding up the staff on
+one side, the hand of another
+man holding the staff on the
+other side.
 
 Does this picture ring any bells?
 {% endhighlight %}
@@ -56,10 +57,10 @@ vs. |
 Image 2:
 Jesus climbed up a hill, willingly
 raised His hands up on a cross,
-with a nail in each hand; one on one
-side, and another on the other side.
-One thief on his right, and one on
-his left.
+with a nail in each hand; one on
+one side, and another on the other
+side. One thief on his right, and
+one on his left.
 {% endhighlight %}
 
 The staff in __Image 1__ was the same staff that Moses used to strike the rock at Rephidim for water. The same staff of wrath that brought judgement on Egypt. One day God's staff of wrath would be used to strike onto His own son, like when Moses struck the rock. On the cross, it pleased God to strike His Son the Cornerstone with His staff, the cross.
