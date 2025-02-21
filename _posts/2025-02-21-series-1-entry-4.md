@@ -8,7 +8,7 @@ date:   2025-02-21 10:14:00 -0500
 
 __DETOUR__ Before I proceed, I am writing this sitting from the comfort of my couch, sipping on my latte, safe inside from the freezing cold outside, and that's not the case for everyone here in Kansas City today. God please help those who are cold and hungry and help me and the readers to be stirred to help them. Before we get into it, I want to be clear that these admonitions for you to live a life of action is not just for you, but for me also. I like to think of these blogs just as much self-directed as they are directed at you, reader. Like Jonah, I too struggle with being a bitter-hearted hypocrite.
 
-`Main Body: Our alone time with God is not enough`
+`Main Body: Our alone time with God is beautiful, but is not enough`
 
 
 __First Point:__ Jonah didn't stay in the whale.
