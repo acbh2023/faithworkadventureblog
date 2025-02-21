@@ -16,15 +16,22 @@ __First Point:__ Jonah didn't stay in the whale.
 Jonah didn't stay in the whale, but based on his annoyed reaction to Nineveh's repentance, part of me wonders, if he would have stayed in there if he had the choice. Jonah didn't ask to be spat out by the way, God commanded the fish to spit him out. To me Jonah is a warning about being a 'Hermit Christian'; you'll see more what I mean in a bit. I'm not bashing private time with God, just the opposite. It's so important and beautiful. Jonah captures the beauty of it well. For Jonah, although a difficult memory, probably one of his sweetest, most intimate times with God and most powerful memories in his life was his time in the whale. Read these excerpts from this beautiful prayer from Jonah in Chapter 2 Verses 1-10 where he recalls the moments before the whale saved him as he was drowning and following. This prayer reminds me of the sweet intimacy of some of my personal, private, intimate times with the Lord (feel free to read all verses, Jonah 2:1-10, in your Bible if you'd like):
 
 {% highlight text %}
-"I called out to Yahweh and He answered me
+"I called out to Yahweh
+and He answered me
 ...
-For You cast me into the deep, all Your waves and billows passed over me
+For You cast me into the deep,
+all Your waves and billows
+passed over me
 ...
-I went down [and] the earth's bars closed upon me forever
+I went down [and] the earth's bars
+closed upon me forever
 ...
-Yet You brought up my life from the pit, O Yahweh my God
+Yet You brought up my life from
+the pit, O Yahweh my God
 ...
-When my life as fainting away, I remembered Yahweh, and my prayer went up to You,
+When my life as fainting away, I
+remembered Yahweh, and my prayer
+went up to You,
 into Your holy temple"
 {% endhighlight %}
 
