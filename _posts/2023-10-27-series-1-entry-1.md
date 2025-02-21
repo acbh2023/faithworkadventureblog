@@ -22,6 +22,8 @@ I also want non-Christians to be able to read the perspective of a Christian tha
 
 `Vision and Purpose`
 
+IF YOU ARE LOOKING AT THIS SECTION IN 2025, LOL THIS IS A GOOD EXAMPLE OF MY WELL-MEANING INTENTIONS THAT I DON'T END UP FOLLOWING THROUGH ON, AND THAT'S OKAY. GOD HELP ME TO FOLLOW THROUGH ON WHAT'S IMPORTANT AND BE ABLE TO SAY NO WHEN IT'S NOT IMPORTANT
+
 This weekly, blog-style publication will be released every __Friday__, and will include a variety of series on faith, my passions/work, and adventurous short stories. The series will all flow from my love for Christ, my love for my family, my love for strangers, and my passions, and my passion for adventure.
 
 This __first series__, a 5-part series, will be focused on topics of __faith and/or work__, but will not necessarily always touch on both. The focus will be to help you decide if you really want to listen to me or not based on my attempt to convey my perspective to you.
