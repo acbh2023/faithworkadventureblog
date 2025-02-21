@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "An Admonition for the Hermit Christian"
-date:   2025-02-20 22:45:00 -0500
+date:   2025-02-21 12:14:00 -0500
 ---
 
 `Intro` There are two parts to our relationship with God, 1) faith and 2) works, faith being our private, personal time with God and works being our public time with God. In the book of James we learn that faith and works are inseparable. Really we should not ever use these two words apart. I propose a new word to be used when we discuss our relationship with God; it shouldn't be spoken of as simply "my faith" but should be "my working faith", "my active faith", or "my living faith" as a reminder of the oneness of faith and works. Another way to look at it is Jesus' summation of the Old Testament. The two most important commands are 1) to Love the Lord God with all your will, your actions, and your resources and 2) to love your neighbor as yourself; there's that private and public dimension to our relationship with God again. As lovers of Jesus, we love our quiet, alone time with Him, but that's not enough to have a good relationship with Him; we must go out and care for people physically and ultimately spiritually. In the same way that Jonah didn't stay in the whale and Jesus didn't stay in the grave, we too cannot stay in the comfort of the womb of our new birth.
