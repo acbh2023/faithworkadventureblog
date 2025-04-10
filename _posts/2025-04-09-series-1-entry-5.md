@@ -19,7 +19,7 @@ As our family approaches a major fork in the road ahead, as we get closer to doi
 
 Help me to realize God that when I am cast down that is because my soul pants for you like a deer pants for flowing streams (Psalm 42:1). I need you, Yahweh. More of You.
 
-As Paul says in 1 Corinthians 9:27, "...I discipline my body and keep in under control". We must subdue our minds, our souls, our bodies into submission for Jesus Messiah and through Jesus Messiah's power. He is the Promised One the ancient Israelites hoped for; like them He is the one that I hope for, every morning, for his new mercies (Lamentations 3:23). Because like the remnant among the ancient Israelites, God has helped me recognize that I am not enough. I cannot climb the mountain of the Lord, I cannot attain perfection. But Jesus Messiah can, and he did. He came down to the base of the mountain and carried me on His back to the summit.
+As Paul says in 1 Corinthians 9:27, "...I discipline my body and keep it under control". We must subdue our minds, our souls, our bodies into submission for Jesus Messiah and through Jesus Messiah's power. He is the Promised One the ancient Israelites hoped for; like them He is the one that I hope for, every morning, for his new mercies (Lamentations 3:23). Because like the remnant among the ancient Israelites, God has helped me recognize that I am not enough. I cannot climb the mountain of the Lord, I cannot attain perfection. But Jesus Messiah can, and he did. He came down to the base of the mountain and carried me on His back to the summit.
 
 
 `Conclusion`
