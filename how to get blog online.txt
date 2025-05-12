@@ -1,9 +1,18 @@
 fix blog date name of file and inside the date too -0500 is the timezone
 
-in terminal:
+in pc terminal:
 cd faith_work_write_blog
 jekyll build
 jekyll serve
+to test it out locally at localhost:4000 do the aforementioned. To upload it live do what is below
+git add .
+git commit -m "initial commit"
+git push origin gh-pages -f
+
+in Mac terminal:
+cd faith_work_write_blog
+Bundle exec jekyll build
+Bundle exec jekyll serve
 to test it out locally at localhost:4000 do the aforementioned. To upload it live do what is below
 git add .
 git commit -m "initial commit"
