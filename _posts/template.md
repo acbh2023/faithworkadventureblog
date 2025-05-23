@@ -15,9 +15,9 @@ normal text
 `DETOUR`
 
 {% highlight text %}
-
-highlighted text
-
+This is the width max for a mo-
+bile device as you can see it
+is not very wide
 {% endhighlight %}
 
 __TL;DR__ |text here|
