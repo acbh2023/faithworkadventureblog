@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Confessions"
+title:  "Confession"
 date:   2025-05-22 10:55:00 -0500
 ---
 
