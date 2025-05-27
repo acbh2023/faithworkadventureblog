@@ -27,7 +27,7 @@ So, like Jesus carrying a dead tree on his back, I must fight against my lazy fl
 One day, Jesus will cast off the dead tree we carry upon our backs, and we will be transformed completely and finally into a tree whose leaves never wither. To be clear, that is who we are now in Christ, a tree planted by streams of water that yields its fruit in season, but as it says in 1 John 3:2, `“What we will be has not yet appeared; but we know that when [Jesus] appears we shall be like Him, because we shall see Him as He is.”` We are not in our final forms yet.
 
 `Conclusion`
-Our dead flesh tree is the means through which God brings salvation to the world, Jesus working with us and through us. This bag of bones we carry around that is bound by the law of sin, is the means through which God brings salvation to the world. So, pick up your dead flesh tree and march onward to the Celestial City, proclaiming the hope of King Jesus Christ, the tree of life, to the world along the way.
+Our dead flesh tree is the means through which God brings salvation to the world, Jesus working with us and through us. This bag of bones we carry around that is bound by the law of sin, is the means through which God brings salvation to the world. So, you and I must pick up your dead flesh tree and march onward to the Celestial City, proclaiming the hope of King Jesus Christ, the tree of life, to the world along the way.
 
 Verse to meditate on |Philippians 1:21: `“To live is Christ, and to die is gain.”` Keep persevering! Keep yourselves in the love of God. Share the hope and light of Jesus to those you run into daily, be intentional, be shrewd. A lot is at stake.|
 
