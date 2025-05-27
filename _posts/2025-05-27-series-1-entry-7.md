@@ -3,6 +3,8 @@ layout: post
 title:  "Dead Flesh Trees"
 date:   2025-05-27 06:32:00 -0500
 ---
+<img src="{{ '/assets/series7sketch.jpg' | relative_url }}" alt="Alt text" width="250" />
+
 `Intro`
 I’ve been reading through my late father’s blog recently. A family member preserved it into a physical copy format before the website was taken down, which is so awesome. It is really important to be able to see my father’s heart for the kingdom of King Jesus.
 
