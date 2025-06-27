@@ -6,6 +6,7 @@ date:   2025-06-27 00:20:00 -0500
 
 <img src="{{ '/assets/series7sketch.jpg' | relative_url }}" alt="Alt text" width="250" />
 
+***italics and bold***
 
 `Blue box`
 
