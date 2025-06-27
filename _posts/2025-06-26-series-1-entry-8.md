@@ -21,7 +21,7 @@ took her to his own home.
 
 <img src="{{ '/assets/john1925-27.png' | relative_url }}" alt="Alt text" width="1500" />
 
-Some __context__: Why does it say, "***But*** standing there by the cross of Jesus were [Mary, Mary, Mary and John]"? ***But*** usually indicates a contrast with a previous statement. What is the contrasting statement?
+Some __context__: Why does it say, "***But*** standing there by the cross of Jesus were [Mary, Mary, Mary and John]"? ***But*** usually indicates contrast with a previous statement. What is the contrasting statement?
 
 Just before this, the soldiers that crucified Jesus were casting lots over who got to keep crucified Jesus' tunic. Instead of beholding the cross, recognizing that the sinless Savior of the world was taking on our punishments like the three Marys and John, these spiritually blind fools were playing games; they were gambling. Our author John the apostle is painting a picture of stark contrast between the children of God and the children of the devil: the Marys and John the former and the gambling soldiers the latter.
 
@@ -48,8 +48,13 @@ In this true story, the family of God is found in these characters: Mary (Jesus'
 - __John__ the apostle:
     - A former fisherman who left his nets and followed Jesus. Knew deeply and reminded himself often in His writings that we was beloved by Jesus. May we all often remind ourselves of this. May we, like John, as a part of the royal priesthood, take care of the church, which is represented her by Jesus' mother.
 
-_For more on the connection I just made between MMoJ and Zion: Check out Revelation 12 to see one example of how I draw a connection between Mary and how she represents Zion. The crown of twelve stars the woman in Revelation 12 represents the 12 tribes of Israel most likely, which points to the strong possibility that this woman is Zion._
+_For more on the connection I just made between MMoJ and Zion:
+- __How is Zion equivalent to the church?__ The Book of Isaiah spends a lot of time fleshing this out; I recommend reading all the way through it in one sitting at least once in your life. An example verse that draws this connection between Zion and the church:
+    - Isaiah 14:32b: The Lord has founded Zion, and in her the afflicted of his people find refuge.
+- __How is Jesus the firstborn of Zion?__ Isaiah 28:16 says, "therefore thus says the Lord God, “Behold, I am the one who has laid as a foundation in Zion, a stone, a tested stone, a precious cornerstone, of a sure foundation: ‘Whoever believes will not be in haste.’"
+- Check out Revelation 12 to see one example of how I draw a connection between Mary and how she represents Zion. The crown of twelve stars the woman in Revelation 12 represents the 12 tribes of Israel most likely, which points to the strong possibility that this woman is Zion._
 
 
 Source 1: Dionysius of Halicarnassus Ant. rom. 7.69.2; Brown, Death, 870.
+
 Source 2: m. Sanhedrin 6:3; Sotah 3:8.
