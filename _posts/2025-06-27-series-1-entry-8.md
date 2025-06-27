@@ -65,7 +65,7 @@ _For more on the connection I just made between MMoJ and Zion_:
 
 
 `Conclusion`
-This gives text us a picture of what kind of people the strange family of God is comprised of and what its focus should be
+Today's passage gives us a picture of what kind of people the strange family of God is comprised of and what its focus should be
 __The strange family of God is comprised of:__ lifelong faithfuls (MMoJ), newly faithfuls (Mary of Clopas), repentant demon-oppressed rebels (Magdalene), and everyday blue collar workers turned ministers of God (John). ALL TYPES OF BACKGROUNDS ARE WELCOME, INCLUDING YOU AND YOUR FAMILY MEMBERS!
 __The strange family of God's focus as seen in the passage is:__ to spend time at standing at the cross (meditating on it, marveling at it, loving and thanking Jesus for it, etc.) and to take care of each other like family regardless of what earthly family you come from. _Even in the midst of suffering on the cross, Jesus is bringing into focus his key teaching of the greatest commandment from Matthew 22:37, 39: "You shall love the Lord your God with all your heart and with all your soul and with all your mind...and...You shall love your neighbor as yourself. On these two commandments depend all the Law and the Prophets.”_
 
