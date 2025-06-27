@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Portrait of the Strange Family of God"
-date:   2025-06-26 11:53:00 -0500
+date:   2025-06-27 3:57:00 -0500
 ---
 
 {% highlight text %}
