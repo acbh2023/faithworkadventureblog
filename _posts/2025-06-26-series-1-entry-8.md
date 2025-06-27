@@ -9,7 +9,7 @@ John 19:25-27
 But standing by the cross of Jesus
 were his mother and his mother’s
 sister, Mary the wife of Clopas,
-'and Mary Magdalene. When Jesus saw
+and Mary Magdalene. When Jesus saw
 his mother and the disciple whom
 he loved standing nearby, he
 said to his mother, “Woman, behold,
@@ -21,7 +21,7 @@ took her to his own home.
 
 <img src="{{ '/assets/john1925-27.png' | relative_url }}" alt="Alt text" width="1500" />
 
-Some __context__: Why does it say, "***But*** standing there by the cross of Jesus were [Mary, Mary, Mary and John]"? ***But*** usually indicates contrast with a previous statement. What is the contrasting statement?
+Some __context__: Why does it say, "***But*** standing there by the cross of Jesus were [Mary, Mary, Mary and John]"? ***But*** usually indicates contrast with a previous statement. What is the contrasting statement? (John 19:23-24)
 
 Just before this, the soldiers that crucified Jesus were casting lots over who got to keep crucified Jesus' tunic. Instead of beholding the cross, recognizing that the sinless Savior of the world was taking on our punishments like the three Marys and John, these spiritually blind fools were playing games; they were gambling. Our author John the apostle is painting a picture of stark contrast between the children of God and the children of the devil: the Marys and John the former and the gambling soldiers the latter.
 
@@ -41,6 +41,7 @@ In this true story, the family of God is found in these characters: Mary (Jesus'
     - 
 - __Mary__, sister of MMoJ, wife of Clopas:
     - This seems to be Jesus' aunt and likely the mother of disciple James son of Alphaeus, not James son of Zebedee but the other, younger disciple James. What is interesting about this Mary being at the cross is that since she is identified as one among the children of God beholding and mourning the death of Jesus, as a believer should, this means that more than likely her son James led her to following Jesus. Again ***This is backwards and strange to how the world operates.*** In the world, you give birth to children and pass on your legacy to them and that is what life is about. It is not that simple with the kingdom family of God. While it should be James' mother teaching him the ways of God, Jesus through James has reversed the curse of sin in James' family, bringing healing, restoration, and a legacy of repentance into his mothers life. _If Mary of Clopas belongs in the family of God, so do your earthly family members too, old and young._
+    - Note: Since she is related to MMoJ, it is totally possible that she has been faithful all her life like MMoJ since they are from the same family.
 
 - __Mary__ called Magdalene:
     - Luke 8:2 says this about Mary: "Mary, called Magdalene, from whom seven demons had gone out." Seven represents completion or totality. So the fact that she had seven demons is not to be overlooked. he had reached complete, utter, and maximal demonic occupation. It appears that Jesus or the disciples may have called Mary (which means "rebellion") by a new name, Magdalene (which means "inhabitant of a tower"). Isn't it amazing that she went from being a completely demon-oppressed rebel to a tower inhabitant. Jesus had become her tower, her fortress. No longer was she caught up in the futile demonic rebellion against the undefeatable fortress of Christ, but she had entered into said fortress through the true, narrow gate of God, Christ himself, and was working for the King, demolishing the very demonic strongholds that use to hold her captive. _If Mary called Magdalene belongs in the family of God, so does anyone with a dark, demon-oppressed background that has repented and turned to Christ._
@@ -48,12 +49,17 @@ In this true story, the family of God is found in these characters: Mary (Jesus'
 - __John__ the apostle:
     - A former fisherman who left his nets and followed Jesus. Knew deeply and reminded himself often in His writings that we was beloved by Jesus. May we all often remind ourselves of this. May we, like John, as a part of the royal priesthood, take care of the church, which is represented her by Jesus' mother.
 
-_For more on the connection I just made between MMoJ and Zion:
+_For more on the connection I just made between MMoJ and Zion_:
 - __How is Zion equivalent to the church?__ The Book of Isaiah spends a lot of time fleshing this out; I recommend reading all the way through it in one sitting at least once in your life. An example verse that draws this connection between Zion and the church:
     - Isaiah 14:32b: The Lord has founded Zion, and in her the afflicted of his people find refuge.
 - __How is Jesus the firstborn of Zion?__ Isaiah 28:16 says, "therefore thus says the Lord God, “Behold, I am the one who has laid as a foundation in Zion, a stone, a tested stone, a precious cornerstone, of a sure foundation: ‘Whoever believes will not be in haste.’"
-- Check out Revelation 12 to see one example of how I draw a connection between Mary and how she represents Zion. The crown of twelve stars the woman in Revelation 12 represents the 12 tribes of Israel most likely, which points to the strong possibility that this woman is Zion._
+- Check out Revelation 12 to see one example of how I draw a connection between Mary and how she represents Zion. The crown of twelve stars the woman in Revelation 12 represents the 12 tribes of Israel most likely, which points to the strong possibility that this woman is Zion.
 
+
+`Conclusion`
+This gives us a picture of what kind of people the strange family of God is comprised of, what its focus should be
+The strange family of God is comprised of: lifelong faithfuls (MMoJ), newly faithfuls (Mary of Clopas), repentant demon-oppressed rebels (Magdalene), and everyday blue collar workers turned ministers of God (John).
+The strange family of God's focus is: to spend time at standing at the cross (meditating on it, marveling at it, loving and thanking Jesus for it, etc.) and to take care of each other like family regardless of what earthly family you come from.
 
 Source 1: Dionysius of Halicarnassus Ant. rom. 7.69.2; Brown, Death, 870.
 
