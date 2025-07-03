@@ -16,7 +16,7 @@ In the midst of big reroutings of future plans, I find myself struggling to get 
 
 _`An Invitation to Surrender`_
 
-Before I personally say anything against my demonic enemies, I am going to bring into remembrance the words and actions of Joshua, who represents Jesus. This is not only an attack and a strategy against demonic forces, but also an encouragement to you, O reader, to do the same to the enemy's minions on your path to heaven.
+Before I personally say anything against my demonic enemies, I am going to bring into remembrance the words and actions of Joshua, who represents Jesus. This is not only an attack and a strategy against demonic forces, but also an encouragement to you, O reader, to do the same to the enemy's minions you meet on your path to heaven.
 
 {% highlight text %}
 Anchor text: Joshua 10:24-27 (ESV)
