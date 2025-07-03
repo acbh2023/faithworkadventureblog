@@ -32,18 +32,20 @@ on their necks. And Joshua said
 to them, Do not be afraid or
 dismayed; be strong and courageous.
 For thus the LORD will do to all
-your enemies against whom you fight."
-And afterward Joshua struck them and
-put them to death, and he hanged them
-on five trees. And they hung on the
-trees until evening. But at the time
-of the going down of the sun, Joshua
+your enemies against whom you
+fight." And afterward Joshua struck
+them and put them to death, and he
+hanged them on five trees. And
+they hung on the trees until
+evening. But at the time of the
+going down of the sun, Joshua
 commanded, and they took them down
 from the trees and threw them into
 the cave where they had hidden
-themselves, and they set large stones
-against the mouth of the cave,
-which remain to this very day.
+themselves, and they set large
+stones against the mouth of the
+cave, which remain to this very
+day.
 {% endhighlight %}
 _keep in mind that Jesus is the Greek version of Joshua, which means **Yahweh is salvation** ("Yeho-shua")_
 
