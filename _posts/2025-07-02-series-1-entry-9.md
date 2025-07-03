@@ -14,7 +14,7 @@ My heart is heavy
 
 In the midst of big reroutings of future plans, I find myself struggling to get through the day. I need God so much, but it is hard to even find the words to ask for help. I am realizing that I am at a point in my journey where I am met by two demons standing in my path: Apathy and his close relative, Sloth. I find myself stuck here against these formidable foes, unable to continue forward on my journey to the Celestial City. I am here writing as I am reminded of something Kirby Kelly talked about on the Christian Habits podcast with Barb Raveling: she says that if you are struggling against a particular sin, make a battle plan against it. So in the spirit of making a battle plan, I have decided to write a letter to these two demons, in the name of Jesus, titled _An Invitation to Surrender_.
 
-_An Invitation to Surrender_
+_`An Invitation to Surrender`_
 
 Before I personally say anything against my demonic enemies, I am going to bring into remembrance the words and actions of Joshua, who represents Jesus. This is not only an attack and a strategy against demonic forces, but also an encouragement to you, O reader to do the same to the enemy's minions on your path to heaven.
 
