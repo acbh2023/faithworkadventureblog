@@ -30,7 +30,7 @@ him, "Come near; put your feet on
 the necks of these kings." Then
 they came near and put their feet
 on their necks. And Joshua said
-to them, Do not be afraid or
+to them, "Do not be afraid or
 dismayed; be strong and courageous.
 For thus the LORD will do to all
 your enemies against whom you
