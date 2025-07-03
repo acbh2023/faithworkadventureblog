@@ -54,4 +54,4 @@ _keep in mind that Jesus is the Greek version of Joshua, which means **Yahweh is
 
 <img src="{{ '/assets/joshua1025.jpeg' | relative_url }}" alt="Alt text" width="400" />
 
-`So what exactly is my plan? To ask Jesus to help me believe the battle is already won and then to live in the reality of the truth that the battle is already won. This is not a natural way of thinking, fighting like the fight is already won, but it is how Jesus commands us to think. Mold me! Shape me! Whatever it takes to be an effective vessel for You, O LORD!`
+`So what exactly is my plan? To ask Jesus to help me believe the battle is already won and then to live in the reality of that truth by His power and not my own. This is not a natural way of thinking, fighting like the fight is already won, but it is how Jesus commands us to think. Mold me! Shape me! Whatever it takes to be an effective vessel for You, O LORD!`
